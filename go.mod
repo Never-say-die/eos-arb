@@ -26,4 +26,4 @@ require (
 	moul.io/http2curl v1.0.0 // indirect
 )
 
-replace eos-go => github.com/Never-say-die/eos-arb
+replace github.com/panyanyany/eos-arb => github.com/Never-say-die/eos-arb
