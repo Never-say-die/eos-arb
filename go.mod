@@ -1,4 +1,4 @@
-module github.com/Never-say-die/eos-arb
+module eos-arb
 
 go 1.16
 
