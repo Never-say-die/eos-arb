@@ -1,4 +1,4 @@
-module github.com/Never-say-die/eos-arb
+module eos-arb
 
 go 1.16
 
@@ -26,4 +26,4 @@ require (
 	moul.io/http2curl v1.0.0 // indirect
 )
 
-replace github.com/panyanyany/eos-arb => github.com/Never-say-die/eos-arb
+replace eos-arb => github.com/Never-say-die/eos-arb
